@@ -1,4 +1,5 @@
 # FarmersMarkets
-Practice problem for Farmers Market data application
-
-This project is used for practice.
+"""
+Здесь мы создаем свой проект на основе скопированного проекта разработанного нашим преподователем
+Константином Кузьминым https://github.com/KCony/FarmersMarkets.git
+"""
