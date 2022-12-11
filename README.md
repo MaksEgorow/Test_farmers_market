@@ -1,2 +1,4 @@
-# Test_farmers_market
-my_project_famers_market
+# FarmersMarkets
+Practice problem for Farmers Market data application
+
+This project is used for practice.
